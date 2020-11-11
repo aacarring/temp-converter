@@ -30,14 +30,14 @@ input[type=number] {
     font-family: Asap, sans-serif;
 }
 
-::-webkit-input-placeholder { //for chrome, opera, safari
+::-webkit-input-placeholder { /* for chrome, opera, safari */
     color: #333;
 }
 
-::-moz-input-placeholder { //for firefox
+::-moz-input-placeholder { /*for firefox */
     color: #333;
 }
 
-::-ms-input-placeholder { //for edge
+::-ms-input-placeholder { /*for edge */
     color: #333;
 }
